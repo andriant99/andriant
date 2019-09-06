@@ -9,6 +9,8 @@ http://cdnmdc1.useetv.com/joss/15/sctv/chunklist.m3u8
 http://cdnmdc1.useetv.com/joss/15/net/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_tvone_big1.png" group-title="useetv",TVONE
 http://cdnmdc1.useetv.com/joss/15/tvone/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_tvone_big1.png" group-title="useetv",TVONE
+https://cdnjt25.useetv.com/joss/15/tvone/chunklist_w1465060774_b894100_sleng.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png" group-title="useetv",INDOSIAR HD
 http://cdnmdc1.useetv.com/joss/15/indosiar/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_kompastv_big1.png" group-title="useetv",KOMPASTV
@@ -17,8 +19,12 @@ http://cdnmdc1.useetv.com/joss/15/kompastv/chunklist.m3u8
 http://cdnmdc1.useetv.com/joss/15/transtv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_antv_big1.png" group-title="useetv",ANTV
 http://cdnmdc1.useetv.com/joss/15/antv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_antv_big1.png" group-title="useetv",ANTV
+https://cdnjt25.useetv.com/joss/15/antv/chunklist_w763781770_b894100_sleng.m3u8
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_trans7_big1.png" group-title="useetv",TRANS7
 http://cdnmdc1.useetv.com/joss/15/trans7/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_trans7_big1.png" group-title="useetv",TRANS7
+https://cdnmdc2.useetv.com/joss/15/trans7/chunklist_w1815220505_b1344100_sleng.m3u8
 #EXTINF:-1 group-title="useetv",ANTARATV
 https://cdnbal1.useetv.com/joss/14/antara/chunklist_w1819313156_b684100_sleng.m3u8
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_balitv_big1.png" group-title="useetv",BALITV
@@ -27,6 +33,8 @@ https://cdnjt25.useetv.com/joss/14/balitv/chunklist_w1252371134_b684100_sleng.m3
 http://cdnmdc2.useetv.com/joss/15/galaxy/chunklist.m3u8
 #EXTINF:-1,NHK [ID]
 http://cdnmdc2.useetv.com/joss/14/nhkworld/chunklist.m3u8
+#EXTINF:-1,NHK [ID]
+https://cdnjt25.useetv.com/joss/14/nhkworld/chunklist_w1484798208_b684100_sleng.m3u8
 #EXTINF:-1,TV5 Monde [ID]
 http://cdnmdc2.useetv.com/joss/14/tv5monde/chunklist.m3u8
 #EXTINF:-1,Pelangi [ID]
@@ -69,6 +77,8 @@ http://cdnmdc2.useetv.com/joss/14/bioskopindonesia/chunklist.m3u8
 http://cdnmdc2.useetv.com/joss/14/imc/chunklist.m3u8
 #EXTINF:-1,T Music [ID]
 http://cdnmdc2.useetv.com/joss/14/tmusic/chunklist.m3u8
+#EXTINF:-1,T Music [ID]
+https://cdnjt21.useetv.com/joss/14/tmusic/chunklist_w644327721_b684100_sleng.m3u8
 #EXTINF:-1,U Channels [ID]
 http://cdnmdc2.useetv.com/joss/14/uchannel/chunklist.m3u8
 #EXTINF:-1,Insert [ID]
