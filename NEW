@@ -1,0 +1,312 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="useetv",MNCTV
+http://202.80.222.171:80/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="https://infokampus.news/wp-content/uploads/2017/11/Slide1-800x445.jpg" group-title="useetv",RCTI HD
+http://id6.indostreamingtv.com/live/rcti/index.m3u8
+#EXTINF:-1 group-title="useetv",SCTV [ID]
+http://cdnmdc1.useetv.com/joss/15/sctv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/60/Net_TV_nepal.jpg" group-title="useetv",NET TV
+http://cdnmdc1.useetv.com/joss/15/net/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_tvone_big1.png" group-title="useetv",TVONE
+http://cdnmdc1.useetv.com/joss/15/tvone/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png" group-title="useetv",INDOSIAR HD
+http://cdnmdc1.useetv.com/joss/15/indosiar/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_kompastv_big1.png" group-title="useetv",KOMPASTV
+http://cdnmdc1.useetv.com/joss/15/kompastv/chunklist.m3u8
+#EXTINF:-1,Trans TV [ID]
+http://cdnmdc1.useetv.com/joss/15/transtv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_antv_big1.png" group-title="useetv",ANTV
+http://cdnmdc1.useetv.com/joss/15/antv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_trans7_big1.png" group-title="useetv",TRANS7
+http://cdnmdc1.useetv.com/joss/15/trans7/chunklist.m3u8
+#EXTINF:-1 group-title="useetv",ANTARATV
+https://cdnbal1.useetv.com/joss/14/antara/chunklist_w1819313156_b684100_sleng.m3u8
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_balitv_big1.png" group-title="useetv",BALITV
+https://cdnjt25.useetv.com/joss/14/balitv/chunklist_w1252371134_b684100_sleng.m3u8
+#EXTINF:-1,Galaxy [ID]
+http://cdnmdc2.useetv.com/joss/15/galaxy/chunklist.m3u8
+#EXTINF:-1,NHK [ID]
+http://cdnmdc2.useetv.com/joss/14/nhkworld/chunklist.m3u8
+#EXTINF:-1,TV5 Monde [ID]
+http://cdnmdc2.useetv.com/joss/14/tv5monde/chunklist.m3u8
+#EXTINF:-1,Pelangi [ID]
+http://cdnmdc2.useetv.com/joss/14/pelangi/chunklist.m3u8
+#EXTINF:-1,Dream Works [ID]
+http://cdnmdc2.useetv.com/joss/15/dreamworks/chunklist.m3u8
+#EXTINF:-1,FLIK [ID]
+http://cdnmdc2.useetv.com/joss/15/flik/chunklist.m3u8
+#EXTINF:-1,Da Vinci [ID]
+http://cdnmdc2.useetv.com/joss/14/davinci/chunklist.m3u8
+#EXTINF:-1,Golf Plus [ID]
+http://cdnmdc2.useetv.com/joss/15/golfplus/chunklist.m3u8
+#EXTINF:-1,JITV [ID]
+http://cdnmdc2.useetv.com/joss/14/jitv/chunklist.m3u8
+#EXTINF:-1,EGG TV [ID]
+http://cdnmdc2.useetv.com/joss/14/egg/chunklist.m3u8
+#EXTINF:-1,Eatgo [ID]
+http://cdnmdc2.useetv.com/joss/14/eatgo/chunklist.m3u8
+#EXTINF:-1,Fashion TV [ID]
+http://cdnmdc2.useetv.com/joss/15/fashiontv/chunklist.m3u8
+#EXTINF:-1,Aniplus [ID]
+http://cdnmdc2.useetv.com/joss/14/aniplus/chunklist.m3u8
+#EXTINF:-1,Prambors TV [ID]
+http://cdnmdc2.useetv.com/joss/14/pramborstv/chunklist.m3u8
+#EXTINF:-1,Fashion One [ID]
+http://cdnmdc2.useetv.com/joss/15/fashionone/chunklist.m3u8
+#EXTINF:-1,Spacetoon Plus [ID]
+http://cdnmdc2.useetv.com/joss/14/spacetoonplus/chunklist.m3u8
+#EXTINF:-1,HI Indo [ID]
+http://cdnmdc2.useetv.com/joss/14/hiindo/chunklist.m3u8
+#EXTINF:-1,DMI Channels [ID]
+http://cdnmdc2.useetv.com/joss/14/dmi/chunklist.m3u8
+#EXTINF:-1,MY TV [ID]
+http://cdnmdc2.useetv.com/joss/14/mytv/chunklist.m3u8
+#EXTINF:-1,DAAI TV [ID]
+http://cdnmdc2.useetv.com/joss/14/daaitv/chunklist.m3u8
+#EXTINF:-1,Bioskop Indonesia [ID]
+http://cdnmdc2.useetv.com/joss/14/bioskopindonesia/chunklist.m3u8
+#EXTINF:-1,IMC [ID]
+http://cdnmdc2.useetv.com/joss/14/imc/chunklist.m3u8
+#EXTINF:-1,T Music [ID]
+http://cdnmdc2.useetv.com/joss/14/tmusic/chunklist.m3u8
+#EXTINF:-1,U Channels [ID]
+http://cdnmdc2.useetv.com/joss/14/uchannel/chunklist.m3u8
+#EXTINF:-1,Insert [ID]
+http://cdnmdc2.useetv.com/joss/14/insert/chunklist.m3u8
+#EXTINF:-1,Chinese Drama [ID]
+http://cdnmdc2.useetv.com/joss/14/chinesedrama/chunklist.m3u8
+#EXTINF:-1,Duck TV [ID]
+http://cdnmdc2.useetv.com/joss/14/ducktv/chunklist.m3u8
+#EXTINF:-1,Dunia Lain [ID]
+http://cdnmdc2.useetv.com/joss/14/dunialain/chunklist.m3u8
+#EXTINF:-1,JTV [ID]
+http://cdnmdc2.useetv.com/joss/14/jtv/chunklist.m3u8
+#EXTINF:-1,Dunia Anak [ID]
+http://cdnmdc2.useetv.com/joss/14/duniaanak/chunklist.m3u8
+#EXTINF:-1,JAK TV [ID]
+http://cdnmdc2.useetv.com/joss/14/jaktv/chunklist.m3u8
+#EXTINF:-1,Zee Bioskop [ID]
+http://cdnmdc2.useetv.com/joss/14/zbioskop/chunklist.m3u8
+#EXTINF:-1,Khazanah [ID]
+http://cdnmdc2.useetv.com/joss/14/khazanah/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_rtv_big1.png" group-title="useetv",RTV
+http://cdnmdc2.useetv.com/joss/14/rtv/chunklist.m3u8
+#EXTINF:-1,NBA[ID]
+http://cdnmdc2.useetv.com/joss/15/nba/chunklist.m3u8
+#EXTINF:-1,Usee Sports [ID]
+http://cdnmdc2.useetv.com/joss/15/useesport/chunklist.m3u8
+#EXTINF:-1,Usee Prime [ID]
+http://cdnmdc2.useetv.com/joss/15/useeprime/chunklist.m3u8
+#EXTINF:-1,Fox Life [ID]
+http://cdnmdc1.useetv.com/joss/17/foxlife/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_metrotv_big1.png" group-title="useetv",METROTV
+http://cdnmdc1.useetv.com/joss/15/metrotv/chunklist.m3u8
+#EXTINF:-1 group-title="useetv",TVRI
+http://cdnmdc1.useetv.com/joss/15/tvri/chunklist.m3u8
+#EXTINF:-1,K Plus [ID]
+http://cdnmdc1.useetv.com/joss/15/kplus/chunklist.m3u8
+#EXTINF:-1,S_ONE [ID]
+http://cdnmdc1.useetv.com/joss/15/sone/chunklist.m3u8
+#EXTINF:-1,S_GEM [ID]
+http://cdnmdc1.useetv.com/joss/15/sgem/chunklist.m3u8
+#EXTINF:-1,AXN [ID]
+http://cdnmdc1.useetv.com/joss/17/axn/chunklist.m3u8
+#EXTINF:-1,National Geographic [ID]
+http://cdnmdc1.useetv.com/joss/17/natgeo/chunklist.m3u8
+#EXTINF:-1,Nat Geo People [ID]
+http://cdnmdc1.useetv.com/joss/17/natgeopeople/chunklist.m3u8
+#EXTINF:-1,Waku Waku [ID]
+http://cdnmdc1.useetv.com/joss/17/wakuwaku/chunklist.m3u8
+#EXTINF:-1,Nat Geo Wild [ID]
+http://cdnmdc1.useetv.com/joss/17/natgeowild/chunklist.m3u8
+#EXTINF:-1,Bein sports 1 [ID]
+http://cdnmdc1.useetv.com/joss/17/bein1/chunklist.m3u8
+#EXTINF:-1,Bein sports 2 [ID]
+http://cdnmdc1.useetv.com/joss/17/bein2/chunklist.m3u8
+#EXTINF:-1,History [ID]
+http://cdnmdc1.useetv.com/joss/17/history/chunklist.m3u8
+#EXTINF:-1,sbsin [ID]
+http://cdnmdc1.useetv.com/joss/17/sbsin/chunklist.m3u8
+#EXTINF:-1,Discovery [ID]
+http://cdnmdc1.useetv.com/joss/17/disco/chunklist.m3u8
+#EXTINF:-1,ohk [ID]
+http://cdnmdc1.useetv.com/joss/17/ohk/chunklist.m3u8
+#EXTINF:-1,AFC [ID]
+http://cdnmdc1.useetv.com/joss/17/afc/chunklist.m3u8
+#EXTINF:-1,Fox Sports 1 [ID]
+http://cdnmdc1.useetv.com/joss/17/foxsport1/chunklist.m3u8
+#EXTINF:-1,Fox Sports 2 [ID]
+http://cdnmdc1.useetv.com/joss/17/foxsport2/chunklist.m3u8
+#EXTINF:-1,Fox Sports 3 [ID]
+http://cdnmdc1.useetv.com/joss/17/foxsport3/chunklist.m3u8
+
+======================================
+EXTINF:-1,KTV HD [IND]
+http://89.38.97.45:8080/TV1951
+#EXTINF:-1,ETV [IND]
+http://89.38.97.45:8080/TV1952
+#EXTINF:-1,NGW [IND]
+http://89.38.97.45:8080/TV1953
+#EXTINF:-1,Nick [IND]
+http://89.38.97.45:8080/TV1954
+#EXTINF:-1,Zee Cinema HD [IND]
+http://89.38.97.45:8080/TV1941
+#EXTINF:-1,Star HD [IND]
+http://89.38.97.45:8080/TV1942
+#EXTINF:-1,HBO 3 HD
+http://89.38.97.45:8080/TV1943
+#EXTINF:-1,HBO SD [IND]
+http://89.38.97.45:8080/TV1944
+#EXTINF:-1,Sony Ten 1 HD [IND]
+http://89.38.97.45:8080/TV1946
+=================================================
+
+
+#EXTINF:-1,BEIN 1
+http://89.38.97.45:8080/TV4001
+#EXTINF:-1,BEIN 2
+http://89.38.97.45:8080/TV4002
+#EXTINF:-1,BEIN 3
+http://89.38.97.45:8080/TV4003
+#EXTINF:-1,BEIN 4
+http://89.38.97.45:8080/TV4004
+#EXTINF:-1,BEIN 5
+http://89.38.97.45:8080/TV4005
+#EXTINF:-1,BEIN 6
+http://89.38.97.45:8080/TV4006
+#EXTINF:-1,BEIN 7
+http://89.38.97.45:8080/TV4007
+#EXTINF:-1,BEIN 8
+http://89.38.97.45:8080/TV4008
+#EXTINF:-1,BEIN 9
+http://89.38.97.45:8080/TV4009
+#EXTINF:-1,BEIN 10
+http://89.38.97.45:8080/TV4010
+#EXTINF:-1,BEIN 11
+http://89.38.97.45:8080/TV4011
+#EXTINF:-1,BEIN 12
+http://89.38.97.45:8080/TV4012
+#EXTINF:-1,QCV HD
+http://89.38.97.45:8080/TV2753
+#EXTINF:-1,DISNEY CHANNEL HD
+http://89.38.97.45:8080/TV2759
+#EXTINF:-1,123 TV HD
+http://89.38.97.45:8080/TV2761
+#EXTINF:-1,DELUXE MUSIC HD
+http://89.38.97.45:8080/TV2762
+#EXTINF:-1,SPORT 1 HD
+http://89.38.97.45:8080/TV2764
+#EXTINF:-1,QVC 2 HD
+http://89.38.97.45:8080/TV2763
+#EXTINF:-1,REGIO TV
+http://89.38.97.45:8080/TV2765
+#EXTINF:-1,DMAX
+http://89.38.97.45:8080/TV2766
+#EXTINF:-1,ASTRO TV
+http://89.38.97.45:8080/TV2768
+#EXTINF:-1,FOLX
+http://89.38.97.45:8080/TV2772
+#EXTINF:-1,ORF HD
+http://89.38.97.45:8080/TV2770
+#EXTINF:-1,RTL PLUS HD
+http://89.38.97.45:8080/TV2773
+#EXTINF:-1,NITRO
+http://89.38.97.45:8080/TV2775
+#EXTINF:-1,TOGGO PLUS
+http://89.38.97.45:8080/TV2774
+#EXTINF:-1,N24 DOKU
+http://89.38.97.45:8080/TV2777
+#EXTINF:-1,EWTN
+http://89.38.97.45:8080/TV2778
+#EXTINF:-1,TOGGO
+http://89.38.97.45:8080/TV2776
+#EXTINF:-1,NICER DICER TV
+http://89.38.97.45:8080/TV2779
+#EXTINF:-1,HANDY STAR
+http://89.38.97.45:8080/TV2780
+#EXTINF:-1,ANIXE
+http://89.38.97.45:8080/TV2781
+#EXTINF:-1,PEACE TV
+http://89.38.97.45:8080/TV2800
+#EXTINF:-1,TBNUK
+http://89.38.97.45:8080/TV2804
+#EXTINF:-1,PEACE TV URDU
+http://89.38.97.45:8080/TV2806
+#EXTINF:-1,MORE
+http://89.38.97.45:8080/TV2810
+#EXTINF:-1,CH SPORTS
+http://89.38.97.45:8080/TV2812
+
+#EXTINF:-1,KTV
+http://89.38.97.45:8080/TV2816
+#EXTINF:-1,AHLULBAYT
+http://89.38.97.45:8080/TV2821
+
+#EXTINF:-1,HILLSONG CHANNEL
+http://89.38.97.45:8080/TV2825
+#EXTINF:-1,BLAZE
+http://89.38.97.45:8080/TV2826
+#EXTINF:-1,5 STAR +1
+http://89.38.97.45:8080/TV2833
+#EXTINF:-1,5 SELECT
+http://89.38.97.45:8080/TV2832
+#EXTINF:-1,5 SPIKE
+http://89.38.97.45:8080/TV2835
+#EXTINF:-1,5 SPIKE +1
+http://89.38.97.45:8080/TV2836
+#EXTINF:-1,GEMS TV
+http://89.38.97.45:8080/TV2841
+#EXTINF:-1,FRANCE 24
+http://89.38.97.45:8080/TV2844
+#EXTINF:-1,BTV
+http://89.38.97.45:8080/TV2854
+#EXTINF:-1,MA TV
+http://89.38.97.45:8080/TV2860
+#EXTINF:-1,64
+http://89.38.97.45:8080/TV2861
+#EXTINF:-1,SAMAA
+http://89.38.97.45:8080/TV2864
+#EXTINF:-1,ALT
+http://89.38.97.45:8080/TV2865
+#EXTINF:-1,BEN
+http://89.38.97.45:8080/TV2866
+#EXTINF:-1,FYI
+http://89.38.97.45:8080/TV2868
+#EXTINF:-1,ABN TV
+http://89.38.97.45:8080/TV2871
+#EXTINF:-1,TV ONE
+http://89.38.97.45:8080/TV2869
+#EXTINF:-1,MOVIES 4 MEN
+http://89.38.97.45:8080/TV2875
+#EXTINF:-1,SONY MOVIE CHANNEL
+http://89.38.97.45:8080/TV2876
+#EXTINF:-1,TRUE MOVIES
+http://89.38.97.45:8080/TV2877
+#EXTINF:-1,POP
+http://89.38.97.45:8080/TV2881
+#EXTINF:-1,TINY POP +1
+http://89.38.97.45:8080/TV2882
+#EXTINF:-1,POP MAX
+http://89.38.97.45:8080/TV2883
+#EXTINF:-1,SONY MOVIE CHANNEL +1
+http://89.38.97.45:8080/TV2884
+#EXTINF:-1,POP MAX +1
+http://89.38.97.45:8080/TV2885
+#EXTINF:-1,MOVIES 4 MEN +1
+http://89.38.97.45:8080/TV2886
+#EXTINF:-1,CNBC
+http://89.38.97.45:8080/TV5475
+#EXTINF:-1,DISCOVERY SCIENCE
+http://89.38.97.45:8080/TV5508
+#EXTINF:-1,DISNEY CHANNELS
+http://89.38.97.45:8080/TV5510
+#EXTINF:-1,DISNEY JUNIOR
+http://89.38.97.45:8080/TV5520
+#EXTINF:-1,B4U MUSIC
+http://89.38.97.45:8080/TV5522
+#EXTINF:-1,SONY CRIME CHANNEL
+http://89.38.97.45:8080/TV2890
+#EXTINF:-1,SONY CRIME CHANNEL +1
+http://89.38.97.45:8080/TV2891
+#EXTINF:-1,GOLF
+http://89.38.97.45:8080/TV3604
